@@ -3,7 +3,7 @@
 
 
 
-<h2> API que adiciona novos posts,  A API foi criado com o intuito de ser utilizada em um blog, Com as funcionalidades de um, onde o usuário teria um campo de postagem com titulo e o conteúdo, que iria Adicionar, atualizar, ou remover um post criado pelo usuário.</h2>
+<h3> API que adiciona novos posts,  A API foi criado com o intuito de ser utilizada em um blog, Com as funcionalidades de um, onde o usuário teria um campo de postagem com titulo e o conteúdo, que iria Adicionar, atualizar, ou remover um post criado pelo usuário.</h3>
  
 - <h3>Que contem as Seguintes Funcionalidades:</h3>
   
