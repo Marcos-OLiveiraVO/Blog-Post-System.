@@ -11,13 +11,14 @@
     -  Remove um Post. 
     -  Atualiza um Post. 
   
-<h4> 🕹️ Cria, Atualiza e Deleta, Um post criado pelo usuario. </h4>
+- <h4>  Cria, Atualiza e Deleta, Um post criado pelo usuario. </h4>
   
   
   - <h5>Essa API foi criada com o intuito de ser implementada em um blog. </h5>
 
 - <h2>Ela foi criada com as Seguintes Tecnologias:</h2>
   
+     -  Com o padrão de arquitetura MVC (Model-view-controller) 
      -  Node.js
      -  Express
      -  MongoDB
