@@ -5,19 +5,19 @@
 
 <h3> API que adiciona novos posts, O projeto foi criado com o intuito de ser utilizada em um blog, Com as funcionalidades de um, onde o usuário teria um campo de postagem com titulo e o conteúdo, que iria adicionar, atualizar, ou remover um post criado pelo usuário.</h3>
  
-- <h3>Que contem as Seguintes Funcionalidades:</h3>
+ <h3>Que contem as Seguintes Funcionalidades:</h3>
   
   
-    -  Cria um Post.  
-    -  Remove um Post. 
-    -  Atualiza um Post. 
+-  Cria um Post.  
+-  Remove um Post. 
+-  Atualiza um Post. 
   
-- <h4>  Cria, Atualiza e Deleta, Um post criado pelo usuario. </h4>
+ <h4>  Cria, Atualiza e Deleta, Um post criado pelo usuario. </h4>
   
   
-  - <h5>Essa API foi criada com o intuito de ser implementada em um blog. </h5>
+- <h5>Essa API foi criada com o intuito de ser implementada em um blog. </h5>
 
-- <h2>Ela foi criada com as Seguintes Tecnologias:</h2>
+<h2>Ela foi criada com as Seguintes Tecnologias:</h2>
   
      -  Com o padrão de arquitetura MVC (Model-view-controller) 
      -  Node.js
