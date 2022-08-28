@@ -1,26 +1,20 @@
 <h1> POST BLOG API </h1>
-<h2> Sistema de implementação de Posts de um blog.</h2>
 
+## :memo: Descrição
+ Sistema de implementação de Posts de um blog.
+ O projeto foi criado com o intuito de ser utilizada em um blog, Com as funcionalidades de um, onde o usuário teria um campo de postagem com titulo e o conteúdo, que iria adicionar, atualizar, ou remover um post criado pelo usuário.
 
-
-<h3> O projeto foi criado com o intuito de ser utilizada em um blog, Com as funcionalidades de um, onde o usuário teria um campo de postagem com titulo e o conteúdo, que iria adicionar, atualizar, ou remover um post criado pelo usuário.</h3>
-
-<h4>O usuário poderia fazer seus próprios posts,
-seja de entretenimento ou mesmo profissionalmente tendo a opção de excluir ou editar caso necessário.</h4>
+O usuário poderia fazer seus próprios posts,
+seja de entretenimento ou mesmo profissionalmente tendo a opção de excluir ou editar caso necessário.
  
- <h3>Que contem as Seguintes Funcionalidades:</h3>
-  
+## :books: Funcionalidades
   
 -  Cria um Post.  
 -  Remove um Post. 
--  Atualiza um Post. 
-  
- <h4>  Cria, Atualiza e Deleta, Um post criado pelo usuario. </h4>
-  
-  
-- <h5>Essa API foi criada com o intuito de ser implementada em um blog. </h5>
+-  Atualiza um Post.  
+-  criada com o intuito de ser implementada em um blog. </h5>
 
-<h2>Ela foi criada com as Seguintes Tecnologias:</h2>
+## :wrench: Tecnologias utilizadas
   
      -  Com o padrão de arquitetura MVC (Model-view-controller) 
      -  Node.js
