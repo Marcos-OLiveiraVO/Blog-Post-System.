@@ -1,8 +1,8 @@
 <h1> POST BLOG API </h1>
 
 ## :memo: Descrição
- Sistema de implementação de Posts de um blog.
- O projeto foi criado com o intuito de ser utilizada em um blog, Com as funcionalidades de um, onde o usuário teria um campo de postagem com titulo e o conteúdo, que iria adicionar, atualizar, ou remover um post criado pelo usuário.
+ Sistema de implementação de posts de um blog.
+ O projeto foi criado com o intuito de ser utilizada em um blog, com as funcionalidades de um, onde o usuário teria um campo de postagem com titulo e o conteúdo, que iria adicionar, atualizar, ou remover um post criado pelo usuário.
 
 O usuário poderia fazer seus próprios posts,
 seja de entretenimento ou mesmo profissionalmente tendo a opção de excluir ou editar caso necessário.
